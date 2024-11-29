@@ -5,3 +5,4 @@ The project is provides a simple backend API for an airline system, allowing adm
 While developing the project, challenges included configuring Spring Security for JWT integration and handling specific scenarios like recurring flights and error messages. 
 Video link: https://drive.google.com/file/d/1DdYgfqYc6-s7kZAHR1AeiUDq4YTBOZML/view?usp=sharing
 Data Model (File has been seperately uploaded in the repository): https://drive.google.com/file/d/1lV0Vi6Wd_zka5XwkoOMFG_Elz-5P_thJ/view?usp=sharing
+Example data used in project: https://drive.google.com/drive/folders/1AGkNgHailKGCdWuoWEDAp9ridLT2zY4i?usp=sharing
